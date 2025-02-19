@@ -1,2 +1,2 @@
 # Data-analytics
-This project provide the insights on data of super store.
+This is a Practice excel workbooks for data analysis.
